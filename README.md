@@ -1,4 +1,3 @@
-# Crop-prediction-project
 # Crop Prediction Project using Machine Learning
 
 This repository contains a crop prediction project implemented using a Decision Tree Classifier. The machine learning model predicts suitable crops for cultivation based on various parameters. Additionally, a web application is implemented in Flask, providing an easy-to-use interface for agriculturists to predict the most suitable crop for cultivation.
